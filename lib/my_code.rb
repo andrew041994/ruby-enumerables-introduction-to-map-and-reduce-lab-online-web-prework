@@ -55,7 +55,7 @@ def reduce_to_all_true(source_array)
     end
 end
 
-def reduce_to_all_true(source_array)
+def reduce_to_all_false(source_array)
   if source_array !=
     false
   end
