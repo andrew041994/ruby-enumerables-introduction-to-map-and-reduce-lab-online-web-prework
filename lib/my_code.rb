@@ -54,3 +54,11 @@ def reduce_to_all_true(source_array)
       true
     end
 end
+
+def reduce_to_all_true(source_array)
+  if source_array !=
+    false    
+  end
+  
+end
+
